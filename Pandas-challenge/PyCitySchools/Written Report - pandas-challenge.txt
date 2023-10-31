@@ -1,0 +1,11 @@
+Written Report
+
+From the data analysed it is shown that the top performing schools regarding students passing rate, maths scores and reading scores are the Government schools.
+
+As shown from the data listed in PyCitySchools_starter, Government Schools lead in passing rate, maths scores and reading scores.
+
+Students who attend schools with a higher per student budget are shown to performing greater than those students who attend either Government or Independant schools if the per student budget is smaller.
+
+Government Schools are shown to have a greater amount of students who attend them whereas most independent schools have a lower amount of students.
+
+We can conclude that there is a correlation between the higher achievement by students with the greater per student budget. This could be due to Government Schools greater number of students attending increasing the per student budget, which leads to greater grades.
